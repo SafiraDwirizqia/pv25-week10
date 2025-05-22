@@ -7,112 +7,118 @@
       <b>Tampilan awal ketika di run.</b>
     </td>
     <td align="center">
-      <img src="menu_file.png" width="200"/><br>
-      <b>Tampilan menu untuk File</b>
+      <img src="db_sqlite.png" width="200"/><br>
+      <b>Tampilan database menggunakan SQLite</b>
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="menu_flie.png" width="200"/><br>
+      <b>Tampilan menu untuk File</b>
+    </td>
     <td align="center">
       <img src="menu_edit.png" width="200"/><br>
       <b>Tampilan menu untuk Edit.</b>
     </td>
-    <td align="center">
-      <img src="menyimpan_data.png" width="200"/><br>
-      <b>Tampilan ketika akan menyimpan data.</b>
-    </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="data_tersimpan.png" width="200"/><br>
-      <b>Tampilan ketika data sudah tersimpan</b>
+      <img src="before_menu_simpan.png" width="200"/><br>
+      <b>Tampilan sebelum meng-klik menu File untuk Simpan.</b>
     </td>
     <td align="center">
-      <img src="mengedit_data.png" width="200"/><br>
-      <b>Tampilan ketika akan mengedit data.</b>
+      <img src="after_menu_simpan.png" width="200"/><br>
+      <b>Tampilan setelah meng-klik menu File untuk Simpan.</b>
       <tr>
     <td align="center">
-      <img src="save_edit.png" width="200"/><br>
-      <b>Tampilan ketika akan menyimpan hasil editan data.</b>
+      <img src="before_menu_judul.png" width="200"/><br>
+      <b>Tampilan sebelum meng-klik menu Edit untuk Cari Judul.</b>
     </td>
     <td align="center">
-      <img src="after_edit.png" width="200"/><br>
-      <b>Tampilan ketika data telah diedit</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="sort_id1.png" width="200"/><br>
-      <b>Mengurutkan ID secara Ascending.</b>
-    </td>
-    <td align="center">
-      <img src="sort_id2.png" width="200"/><br>
-      <b>Mengurutkan ID secara Descending.</b>
+      <img src="after_menu_judul.png" width="200"/><br>
+      <b>Tampilan setelah meng-klik menu Edit untuk Cari Judul.</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="sort_title1.png" width="200"/><br>
-      <b>Mengurutkan Judul secara Ascending.</b>
+      <img src="before_menu_hapus.png" width="200"/><br>
+      <b>Tampilan sebelum meng-klik menu Edit untuk Hapus Data.</b>
     </td>
     <td align="center">
-      <img src="sort_title2.png" width="200"/><br>
-      <b>Mengurutkan Judul secara Descending.</b>
+      <img src="after_menu_hapus.png" width="200"/><br>
+      <b>Tampilan sebelum meng-klik menu Edit untuk Hapus Data.</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="before_simpan.png" width="200"/><br>
+      <b>Tampilan sebelum menyimpan data buku.</b>
+    </td>
+    <td align="center">
+      <img src="after_simpan.png" width="200"/><br>
+      <b>Tampilan setelah menyimpan data buku.</b>
       <tr>
     <td align="center">
-      <img src="sort_author1.png" width="200"/><br>
-      <b>Mengurutkan Penulis secara Ascending.</b>
+      <img src="before_editJ.png" width="200"/><br>
+      <b>Tampilan sebelum edit untuk judul.</b>
     </td>
     <td align="center">
-      <img src="sort_author2.png" width="200"/><br>
-      <b>Mengurutkan Penulis secara Descending.</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="sort_genre1.png" width="200"/><br>
-      <b>Mengurutkan Genre secara Ascending.</b>
-    </td>
-    <td align="center">
-      <img src="sort_genre2.png" width="200"/><br>
-      <b>Mengurutkan Genre secara Descending.</b>
+      <img src="after_editJ.png" width="200"/><br>
+      <b>Tampilan setelah judul diedit.</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="sort_year1.png" width="200"/><br>
-      <b>Mengurutkan Tahun Terbit secara Ascending.</b>
+      <img src="before_editP.png" width="200"/><br>
+      <b>Tampilan sebelum edit untuk pengarang.</b>
     </td>
     <td align="center">
-      <img src="sort_year2.png" width="200"/><br>
-      <b>Mengurutkan Tahun Terbit secara Descending.</b>
+      <img src="after_editP.png" width="200"/><br>
+      <b>Tampilan setelah pengarang diedit.</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="before_editT.png" width="200"/><br>
+      <b>Tampilan sebelum edit untuk tahun terbit.</b>
+    </td>
+    <td align="center">
+      <img src="after_editT.png" width="200"/><br>
+      <b>Tampilan setelah tahun terbit diedit.</b>
       <tr>
-    <td align="center">
-      <img src="search_title.png" width="200"/><br>
-      <b>Tampilan ketika mencari berdasarkan judul.</b>
-    </td>
     <td align="center">
       <img src="before_csv.png" width="200"/><br>
-      <b>Ketika akan menyimpan filenya secara .csv maka klik 'Export to CSV'.</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="save_csv.png" width="200"/><br>
-      <b>Tampilan ketika akan menyimpan datanya ke dalam bentuk CSV.</b>
+      <b>Ketika akan menyimpan filenya secara .csv maka klik tab 'Ekspor'.</b>
     </td>
     <td align="center">
       <img src="after_csv.png" width="200"/><br>
       <b>Tampilan ketika data berhasil di export ke CSV.</b>
     </td>
   </tr>
-      <tr>
+  <tr>
     <td align="center">
-      <img src="search_title.png" width="200"/><br>
-      <b>Tampilan ketika mencari berdasarkan judul.</b>
+      <img src="before_hapus.png" width="200"/><br>
+      <b>Tampilan sebelum menghapus data.</b>
     </td>
     <td align="center">
-      <img src="before_csv.png" width="200"/><br>
-      <b>Ketika akan menyimpan filenya secara .csv maka klik 'Export to CSV'.</b>
+      <img src="after_hapus.png" width="200"/><br>
+      <b>Tampilan setelah menghapus data.</b>
+    </td>
+  </tr>
+      <tr>
+    <td align="center">
+      <img src="file_csv.png" width="200"/><br>
+      <b>Tampilan isi dari file .csv yang sudah di ekspor.</b>
+    </td>
+    <td align="center">
+      <img src="db_setelah_hapus.png" width="200"/><br>
+      <b>Tampilan SQLite setelah ada data yang di hapus.</b>
+    </td>
+  </tr>
+        <tr>
+    <td align="center">
+      <img src="cari_judul.png" width="200"/><br>
+      <b>Tampilan ketika mencari judul buku yang diinginkan.</b>
     </td>
   </tr>
 </table>
