@@ -115,10 +115,12 @@
       <b>Tampilan SQLite setelah ada data yang di hapus.</b>
     </td>
   </tr>
-        <tr>
-    <td align="center">
-      <img src="cari_judul.png" width="200"/><br>
+  <table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="cari_judul.png" width="300"/><br>
       <b>Tampilan ketika mencari judul buku yang diinginkan.</b>
     </td>
   </tr>
+  <tr>
 </table>
