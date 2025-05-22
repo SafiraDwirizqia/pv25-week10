@@ -7,14 +7,14 @@
       <b>Tampilan awal ketika di run.</b>
     </td>
     <td align="center">
-      <img src="tampilan_menu.png" width="200"/><br>
-      <b>Tampilan menu aplikasi, ada mereset database dan exit dari aplikasi.</b>
+      <img src="menu_file.png" width="200"/><br>
+      <b>Tampilan menu untuk File</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="mengisi_data.png" width="200"/><br>
-      <b>Tampilan ketika mengisi data.</b>
+      <img src="menu_edit.png" width="200"/><br>
+      <b>Tampilan menu untuk Edit.</b>
     </td>
     <td align="center">
       <img src="menyimpan_data.png" width="200"/><br>
@@ -103,6 +103,16 @@
     <td align="center">
       <img src="after_csv.png" width="200"/><br>
       <b>Tampilan ketika data berhasil di export ke CSV.</b>
+    </td>
+  </tr>
+      <tr>
+    <td align="center">
+      <img src="search_title.png" width="200"/><br>
+      <b>Tampilan ketika mencari berdasarkan judul.</b>
+    </td>
+    <td align="center">
+      <img src="before_csv.png" width="200"/><br>
+      <b>Ketika akan menyimpan filenya secara .csv maka klik 'Export to CSV'.</b>
     </td>
   </tr>
 </table>
